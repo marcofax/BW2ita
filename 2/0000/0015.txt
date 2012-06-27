@@ -1,11 +1,11 @@
 Joshua
-London
+Londra
 Berry
 Smith
 Agneau
 Crevett
 Jillian
-Coin
+Moneta
 Egon
 Ezra
 Egbert
@@ -18,12 +18,12 @@ Pound
 Rupee
 Dollar
 Rutie
-Won
+Vinto
 Peso
 Sasha
-Real
+Reale
 Oda
-Hide
+Nascondi
 Nobu
 Tada
 Janice
@@ -86,7 +86,7 @@ Cimon
 Lew
 Emil
 Kegan
-Way
+Via
 Min
 Marx
 Durbin
@@ -199,7 +199,7 @@ Joice
 Phyl
 Florian
 Ulfgang
-Faust
+Fausto
 Stubs
 Spacey
 Shan
@@ -255,7 +255,7 @@ Hilary
 Ganymed
 Proteus
 Petro
-Philipo
+Filippo
 Judy
 Vespera
 Aramis
