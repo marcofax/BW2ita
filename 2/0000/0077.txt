@@ -1,14 +1,14 @@
-Loading...\xfffePlease wait a moment.
-The game inserted is not compatible.\xfffeTurn off the power, insert a\xfffecompatible Game Card, and try again.\xf000븁\x0000
-Saving...\xfffeDon't turn off the power.
-The game has been saved. \xf000븂\x0001<
-The Relocator will close.\xfffePlease turn off the power.
-The saved data could not be accessed.\xfffeThe Relocator will close.\xf000븁\x0000
-Unable to connect to the\xfffeother DS system.\xf000븁\x0000
-Save failed...\xfffeThe Relocator will close.\xf000븁\x0000
+Caricamento...\xfffeAspetta un momento.
+Il gioco inserito non e` compatibile.\xfffeSpegni, Inserisci una\xfffecarta gioco compatibile, e riprova.\xf000븁\x0000
+Salvataggio...\xfffeNon spegnere.
+Il gioco e` stato salvato. \xf000븂\x0001<
+Il Relocator sara` chiuso.\xfffePer favore spegni.
+Il salvataggio non e` stato connesso.\xfffeIl Relocator sara` chiuso.\xf000븁\x0000
+Impossibile connettere agli\xfffealtri sistemi DS.\xf000븁\x0000
+Salvataggio fallito...\xfffeThe Relocator sara` chiuso.\xf000븁\x0000
 The Relocator is activated.\xfffeSearching for Pokémon...\xfffe\xfffePlease wait a moment.
 レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります
 ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-YES
+SI
 NO
 デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
